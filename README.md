@@ -1,6 +1,6 @@
 Hi, I’m @mitchdzz
-- I’m interested in ... ways that automation processes are assessed in organizations.
-- Comp sci and Sociology backgrounds.
+- I’m interested in ways that organizations assess automation processes.
+- Comp sci and Sociology backgrounds, early research masters now.
 - The more we delegate to the machinery, the more we need to watch it.
 
 Contact me here.
